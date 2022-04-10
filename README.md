@@ -1,6 +1,6 @@
 ### commot
 
-*A better alternative to the `cat` command* 
+*A better alternative of the `cat` command* 
 
 
 Yes you heard it right, commot gives all the metadata about file you need and the file content. When was it created? Yes. When did I made changes to it? Yes. Don't worry leave to commot it will give you all the information about the file
