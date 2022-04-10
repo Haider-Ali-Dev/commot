@@ -6,7 +6,7 @@ edition = "2021"
 license = "MIT OR Apache-2.0"
 license-file = "LICENSE"
 authors = ["Haider <haideremailsender122@gmail.com>"]
-keywords = ["cli", "file-viewer", "cli-too", "files", "cat", "file"]
+keywords = ["cli", "cli-tool", "files", "cat", "file"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
